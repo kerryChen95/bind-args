@@ -1,6 +1,6 @@
 {
   "name": "bind-args",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "description": "Create a new function which does not bind `this` but arguments. Useful to only prepend arguments, but still use original `this`.",
   "main": "bind-args.js",
   "scripts": {
