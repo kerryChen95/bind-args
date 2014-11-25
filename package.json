@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/kerryChen95/bind-args/issues"
   },
-  "homepage": "https://github.com/kerryChen95/bind-args"
+  "homepage": "https://github.com/kerryChen95/bind-args",
+  "engines": {
+    "node": ">=0.10.0"
+  }
 }
