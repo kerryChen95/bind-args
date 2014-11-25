@@ -4,7 +4,7 @@
   "description": "Create a new function which does not bind `this` but arguments. Useful to only prepend arguments, but still use original `this`.",
   "main": "bind-args.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/spec.js"
   },
   "repository": {
     "type": "git",
